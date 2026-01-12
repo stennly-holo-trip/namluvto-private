@@ -1,0 +1,7 @@
+{
+  "name": "namluv.to",
+  "description": "Digitální hlasová platforma propojující poptávku po profesionálních audionahrávkách s nabídkou hlasových interpretů a AI hlasových služeb.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
